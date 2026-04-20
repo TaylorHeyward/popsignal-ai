@@ -66,4 +66,12 @@ popsignal-ai/
 │   └── test_popsignal.py
 └── assets/
 
-![alt text](assets/assets/system_diagram.png)
+## Video Demo
+
+Watch the full walkthrough here:
+
+[PopSignal AI Demo]()
+
+[![Watch the demo](assets/assets/assets:ui_home.png)](assets/assets/PopSignal%20AI%20Trend%20Momentum%20Classifier%20Tool%20%F0%9F%8E%AF.mp4)
+
+Video file: [PopSignal AI Trend Momentum Classifier Tool 🎯.mp4](assets/assets/PopSignal%20AI%20Trend%20Momentum%20Classifier%20Tool%20%F0%9F%8E%AF.mp4)
