@@ -66,6 +66,12 @@ popsignal-ai/
 │   └── test_popsignal.py
 └── assets/
 
+
+## System Diagram
+
+![System Diagram](assets/assets/system_diagram.)
+
+
 ## Video Demo
 
 Watch the full walkthrough here:
